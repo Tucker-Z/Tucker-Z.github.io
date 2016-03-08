@@ -1,0 +1,129 @@
+---
+title: Reaching for the Moon
+---
+
+#### The Gemini missions were considered to be a huge success. But it wasn't going to be the rocket that took men to the moon. That job was given to the Apollo program. 
+
+>All during the Gemini program, NASA had also been preparing for Project Apollo whose ultimate goal was to place a man on the moon.... Precise testing of the components for the Apollo spacecraft, command module and the LEM (Lunar Excursion Module) were all underway long before the conclusion of the Gemini program." - E John & Nancy DeWaard
+
+## Apollo 1
+
+>"The first Apollo command module was scheduled for launch on 21 February 1967. The crew of that first flight was to be 'Gus' Grissom (The second American in space), Edward H White (the first American to walk in space), and Roger B Chaffe (who would be making his first flight above the atmoshpere). On 27 January 1967, the three were scheduled for some routine exercises aboard the command module.... The spacecraft, like all previous ones, was pressureized to 16 pounds per square inch (1 kg per square cm) with pure oxygen. It was early evening , about 6:30 EDT when a voice called out, 'Fire in the spacecraft!' Another voice cried, 'Get us out of here!' Technicians on the gantry saw a sheet of flame inside the module. Wearing face maks and asbesttos gloves, they tried valiantly to open the hatch. But they were driven back by the intense heat and smoke coming from the capsule. Some six minutes after that first alarm, they were able to remove the hatch. It was too late, however, for the three astronauts. They had died almost instantly inthe smoke and flames that destoyed the capsule. The accident left the nation speecless with chock. These were the first astronauts to lose their lives in the line of duty." - E John & Nacy Dewaard 
+
+## Apollo 11
+#### After the first failed Apollo launch, Apollo 8 and 10 would only orbit the moon and return back to Earth. 
+
+>The primary objective of Apollo 11 was to complete a national goal set by President John F. Kennedy on May 25, 1961: perform a crewed lunar landing and return to Earth. -NASA.gov
+
+### The Crew
+
+![Image]({{ site.baseurl }}/images/Apollo_11-1.jpg)
+###### The crew from left to right
+1. 
+> "Cmdr. Neil Armstrong, 38, had previously piloted Gemini 8, the first time two vehicles docked in space. Born Aug. 5, 1930, in Ohio, Armstrong was 38 when he became the first civilian to command two American space missions." - Space.com
+
+2. 
+>"The command module pilot, Lt. Col. Michael Collins, 38, was born in Italy on Oct. 31, 1930. The pilot of Gemini 10, Collins spent almost an hour and a half outside of the craft on a space-walk and became the first person to meet another spacecraft in orbit." - Space.com  
+
+3. 
+>"Col. Edwin Eugene "Buzz" Aldrin, 39, was the first astronaut with a doctorate to fly in space. Born Jan. 20, 1930, in New Jersey, Aldrin piloted Gemini 12, taking a two-hour, twenty-minute walk in space to demonstrate that an astronaut could work efficiently outside of the vehicle. For Apollo 11, he served as the lunar module pilot." - Space.com
+
+## Touchdown!
+>On 20 July 1969, Apollo 11 achieved on of the greatest victories in the history of exploration. Years had gone into the preparation for the flight of Apollo 11. And now, here at last came the historic words, 'The Eagle has landed.' - E John & Nancy DeWaard
+![Image]({{ site.baseurl }}/images/s1-1920.jpg)
+
+### While on the moon...
+#### The crew of Apollo 11 conducted a few experiments and activities on the surface of the moon.
+
+>"As the first priority, a sample of lunar surface material was collected and stored on the spacecraft to ensure that, if an early end to the surface activities were required, samples from the Moon could be returned to Earth. This sample was collected immediately northwest of the lunar module and its collection took about 3.5 minutes." 
+
+#### The film camera was then set up followed by a solar wind composition experiment. After that, the legendary planting of the flag took place. 
+>"The crew next deployed a specially constructed 3' × 5' American flag. They fitted together its two-piece aluminum staff and deployed a support along its upper edge so that it would remain unfurled in the lunar vacuum. The crew also received a brief call from President Richard Nixon."
+![Image]({{ site.baseurl }}/images/flag_lg.gif)
+
+#### Next came the scientific instruments that would be left behind on the moon to collect data. 
+>"The Early Apollo Scientific Experiments Package consisted of three experiments. The first of these was the Laser Ranging Retroreflector, which was set up about 14 meters south-southwest of the LM. Second was the Passive Seismic Experiment, which was set up a bit farther out from the LM. The third experiment, the Lunar Dust Detector, was mounted on the Passive Seismic Experiment. The experiments themselves were easily deployed; however, it proved difficult to find a level spot for deployment.
+>![Image]({{ site.baseurl }}/images/628459main_Apollo_11.jpg)
+>The Passive Seismic Experiment detected lunar "moonquakes" and provided information about the internal structure of the Moon. The Laser Ranging Retroreflector measured very precisely the distance between the Earth and Moon. The Lunar Dust Detector studied the effects of lunar dust on the operation of the experiment package." 
+
+
+### Leaving the moon
+#### With all of their duties done, the astronauts head back to the LM and prepare for take off on July 21st, 1969
+>"1:54 p.m.- Ascent engine is started and LM, using descent stage as a launch pad, begins rising and reaches a vertical speed of 80 feet per second at 1,000 feet altitude....
+
+>5:35 p.m.- Eagle redocks with Columbia while circling on the back side of the Moon."  - History.NASA.gov
+
+#### And after 4 days of flying through space, the astronauts finally re-enter earth's Atmosphere
+>"      JULY 24th, 1969
+
+>6:47 a.m.- Crew awakens and begins to prepare for splashdown.
+
+> 12:21 p.m.- Command and service modules are separated.
+
+> 12:35 p.m.- Command module re-enters the Earth's atmosphere.
+
+> 12:51 p.m.- Spacecraft splashes down 825 nautical miles southwest of Honolulu and about 13 nautical miles from the recovery ship, the U.S.S. Hornet."  - History.NASA.gov
+  
+
+
+
+# Samples
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### Heading 6
+
+### Body text
+
+**Lorem ipsum dolor sit amet**, consectetur adipiscing elit. Quisque tempus nunc diam, non dignissim risus tincidunt a. Curabitur consequat justo vitae ipsum accumsan tempor. Quisque rhoncus eleifend ante vitae ultricies. Pellentesque suscipit nisl ut metus tincidunt, vulputate sodales dui commodo. Sed eget sapien varius, lacinia lectus nec, tempor dolor. Pellentesque sed mattis magna. Curabitur ut tristique turpis. Morbi sagittis dolor suscipit urna placerat, consectetur venenatis sapien viverra. Mauris vitae felis et sem venenatis cursus.
+
+
+![Image]({{ site.baseurl }}/images/cc.jpg)
+
+
+Donec ornare turpis non ullamcorper pulvinar. *Integer ut mauris vehicula mauris posuere adipiscing.* Phasellus dictum cursus convallis. Sed dapibus laoreet porttitor.
+
+### Blockquotes
+
+> Fusce non eleifend nisi. Donec pharetra sed ipsum sit amet sollicitudin. Duis dolor ante, gravida varius neque eget, semper commodo libero. In euismod tempor lobortis. Nulla eget lectus nec enim mattis aliquet a sit amet est.
+
+## List Types
+
+### Lists
+
+1. Item One
+   1. sub one
+   2. sub two
+   3. sub three
+2. Item Two
+
+* Uno
+* Dos
+* Tres
+
+
+## Table
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+## Code
+
+{% highlight python %}
+class node:
+    def __init__(self, data, next=None):
+        self.data = data
+        self.next = next
+{% endhighlight %}

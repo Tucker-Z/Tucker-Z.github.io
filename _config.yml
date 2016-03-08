@@ -1,14 +1,14 @@
-name: Space Exploration
+name: The Space Race
 author: Tucker
 baseurl: /space
-description: How did space exploration advance the world?
+description: The Cold War Race between the US and the Soviet Union to reach the Moon
 github: http://www.github.com/tucker-z
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
+twitter: https://twitter.com/NASA
+facebook: https://www.facebook.com/NASA/
+linkedin:
 email: tzischka17@lvcp.org
 location: 0.6875°N   23.4333°E
-disqus: diqus-username
+disqus:
 
 ##Make sure to edit the above fields, especially for disqus.
 
