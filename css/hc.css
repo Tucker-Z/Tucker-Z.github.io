@@ -460,7 +460,22 @@ time
   font-size:1.6em
 }
 
-.project-container
+.project-container {
+  width: 100%;
+  height: 170px;
+  box-shadow: inset 0 -10px 5px -2px rgba(119, 119, 119, 0.35);
+  -moz-box-shadow: inset 0 -10px 5px -2px rgba(119, 119, 119, 0.35);
+  -webkit-box-shadow: inset 0 -10px 5px -2px rgba(119, 119, 119, 0.35);
+  border-bottom: solid 1px #fff;
+  background-image: url("http://www.lpi.usra.edu/resources/apollopanoramas/images/print/original/JSC2004e52772.jpg");
+  background-size: cover;
+  z-index: -4;
+  margin-top: -55px;
+  margin-bottom: 30px;
+  color: #fff
+}
+
+.project-container2
 {
   width:100%;
   height:170px;
@@ -468,7 +483,7 @@ time
   -moz-box-shadow:inset 0 -10px 5px -2px rgba(119,119,119,0.35);
   -webkit-box-shadow:inset 0 -10px 5px -2px rgba(119,119,119,0.35);
   border-bottom:solid 1px #fff;
-  background-image:url("http://www.lpi.usra.edu/resources/apollopanoramas/images/print/original/JSC2004e52772.jpg");
+  background-image:url("http://images.1iphone5wallpaper.com/Gallery/58_Panorama/web-thumbs/1-iPhone-5-Wallpaper-Panorama-Earth-Horizon-thumb.jpg");
   background-size: cover;
   z-index:-4;
   margin-top:-55px;
@@ -489,6 +504,16 @@ time
   padding-top:20px
 }
 
+.project-container2 h1
+{
+  font-size:3em;
+  font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
+  font-weight:bolder;
+  color:#fff;
+  text-align:center;
+  padding-top:20px
+}
+
 .project-container p
 {
   font-weight:200;
@@ -497,7 +522,14 @@ time
   text-align:center;
   left-padding:20%
 }
-
+.project-container2 p
+{
+  font-weight:200;
+  font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
+  color:#fff;
+  text-align:center;
+  left-padding:20%
+}
 .project-box
 {
   background-color:#f9f9f9;

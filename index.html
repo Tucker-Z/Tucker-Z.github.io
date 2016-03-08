@@ -8,7 +8,7 @@ title: The Moon Landing
 <div class="recent-posts">
   <h1>About The great Space Race</h1>
   {% for post in site.posts limit: 3 %}
-    {% if forloop.first %}
+    {% if forloop.last %}
       {% assign add_class = 'most-recent' %}
       {% capture fresh_tag %}
         &nbsp;<span class="badge"><smaller>Start Here!</smaller></span>

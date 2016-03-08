@@ -1,11 +1,11 @@
 ---
 title:  Humanity's First Steps into Space
-date:   2013-11-08 19:55:16
+date:   1957-10-4 19:55:16
 categories: jekyll update
 
 ---
 
-### Since the Begining....
+### Since the Beginning....
 #### The stars and space have existed since the beginning of time. And humans have looked up towards it for as long as they have been around. It inspires many and drive them towards it. Stephen hawking says it simply as....
 
 >“Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.”
@@ -30,28 +30,9 @@ categories: jekyll update
 
 >"Members of the panel drew up a serious of recommendations together.... All of this led to the National Aeronautics and Space Act of 1958. The national Advisory Committe for Aeronautics would be absorbed by the new National Aeronautics and Space Administration (NASA).... [With] over a decade of research by the Rocket and Satellite Research Panel ...Nasa was off to a flying start" - E John & Nancy Dewaard
 
-### America offically accepts the Challenge
+### America officially accepts the Challenge
 #### To the majority of the free world, Russia was an enormous threat. The idea of the Soviet Union having missles in space that could hit anywhere in the world was dangerous. That is why America stepped up to the challenge. 
 
 >"We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies ans kills, because that challenge is on that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too." - John F. Kennedy
 
 >![Image]({{ site.baseurl }}/images/jfk_cuban_missile_crisis_ap_0.jpg)
-
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo](https://github.com/mojombo/jekyll)
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
-

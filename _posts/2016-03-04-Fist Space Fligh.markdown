@@ -1,6 +1,6 @@
 ---
 title: First Space Flight
-date: 2013-12-08 19:55:16
+date: 1958-1-31 19:55:16
 categories:
 ---
 
@@ -36,19 +36,3 @@ categories:
 
 >![Image]({{ site.baseurl }}/images/8bdaba96c2a33d9a6b8c637aaef37c0e.jpg) Alan Shepard (right) and his rocket
 
-### Space Craft
-
-1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
-3. Edit the `_config.yml` file
-
-You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon.
-
-### Challenges
-
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
-
-### Images
-* [MIT](http://opensource.org/licenses/MIT)
-
-----------------
