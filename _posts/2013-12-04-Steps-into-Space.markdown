@@ -31,7 +31,7 @@ categories: jekyll update
 >"Members of the panel drew up a serious of recommendations together.... All of this led to the National Aeronautics and Space Act of 1958. The national Advisory Committe for Aeronautics would be absorbed by the new National Aeronautics and Space Administration (NASA).... [With] over a decade of research by the Rocket and Satellite Research Panel ...Nasa was off to a flying start" - E John & Nancy Dewaard
 
 ### America officially accepts the Challenge
-#### To the majority of the free world, Russia was an enormous threat. The idea of the Soviet Union having missles in space that could hit anywhere in the world was dangerous. That is why America stepped up to the challenge. 
+#### To the majority of the free world, Russia was an enormous threat. The idea of the Soviet Union having missiles in space that could hit anywhere in the world was dangerous. That is why America stepped up to challenge them. 
 
 >"We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies ans kills, because that challenge is on that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too." - John F. Kennedy
 

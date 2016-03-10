@@ -2,16 +2,17 @@
 title: Reaching for the Moon
 ---
 
-#### The Gemini missions were considered to be a huge success. But it wasn't going to be the rocket that took men to the moon. That job was given to the Apollo program. 
+#### The Apollo missions were going to carry us to the moon. But with out it predecessor, the Gemini missions, we wouldn't have been able to reach the moon. The research and data that come form Gemini was invaluable. 
 
 >All during the Gemini program, NASA had also been preparing for Project Apollo whose ultimate goal was to place a man on the moon.... Precise testing of the components for the Apollo spacecraft, command module and the LEM (Lunar Excursion Module) were all underway long before the conclusion of the Gemini program." - E John & Nancy DeWaard
 
 ## Apollo 1
+#### This was the first of the Apollo missions. It was going to be a simple fly by of the moon, just to test if we could get there. But things went horribly wrong. 
 
 >"The first Apollo command module was scheduled for launch on 21 February 1967. The crew of that first flight was to be 'Gus' Grissom (The second American in space), Edward H White (the first American to walk in space), and Roger B Chaffe (who would be making his first flight above the atmoshpere). On 27 January 1967, the three were scheduled for some routine exercises aboard the command module.... The spacecraft, like all previous ones, was pressureized to 16 pounds per square inch (1 kg per square cm) with pure oxygen. It was early evening , about 6:30 EDT when a voice called out, 'Fire in the spacecraft!' Another voice cried, 'Get us out of here!' Technicians on the gantry saw a sheet of flame inside the module. Wearing face maks and asbesttos gloves, they tried valiantly to open the hatch. But they were driven back by the intense heat and smoke coming from the capsule. Some six minutes after that first alarm, they were able to remove the hatch. It was too late, however, for the three astronauts. They had died almost instantly inthe smoke and flames that destoyed the capsule. The accident left the nation speecless with chock. These were the first astronauts to lose their lives in the line of duty." - E John & Nacy Dewaard 
 
 ## Apollo 11
-#### After the first failed Apollo launch, Apollo 8 and 10 would only orbit the moon and return back to Earth. 
+#### After the first failed Apollo launch, Apollo 8 and 10 would only orbit the moon and return back to Earth. Apollo 11 was destined to be the greatest voyage of the world. 
 
 >The primary objective of Apollo 11 was to complete a national goal set by President John F. Kennedy on May 25, 1961: perform a crewed lunar landing and return to Earth. -NASA.gov
 
@@ -48,7 +49,7 @@ title: Reaching for the Moon
 
 
 ### Leaving the moon
-#### With all of their duties done, the astronauts head back to the LM and prepare for take off on July 21st, 1969
+#### With all of their duties completed, the astronauts headed back to the LM and prepared for take off on July 21st, 1969
 >"1:54 p.m.- Ascent engine is started and LM, using descent stage as a launch pad, begins rising and reaches a vertical speed of 80 feet per second at 1,000 feet altitude....
 
 >5:35 p.m.- Eagle redocks with Columbia while circling on the back side of the Moon."  - History.NASA.gov
